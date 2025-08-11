@@ -1,10 +1,14 @@
 # DP4+ App
 
-This repository contains the tool presented in the publication titled **DP4+App: Finding the Best Balance between Computational Cost and Predictive Capacity in the Structure Elucidation Process by DP4+. Factors Analysis and Automation**, published in the Journal of Natural Products on September 18, 2023. 
+This repository contains the tool presented in the publication titled **DP4+App: Finding the Best Balance between Computational Cost and Predictive Capacity in the Structure Elucidation Process by DP4+. Factors Analysis and Automation**, published in 2023. 
 
 For all work using **DP4+App** please cite the primary publication: 
 
 * J. Nat. Prod. 2023, 86, 10, 2360–2367 . https://doi.org/10.1021/acs.jnatprod.3c00566
+
+The project continues to grow, and new features have been incorporated. A subsequent publication, *To Gibbs or Not to Gibbs Effect of Entropic Contribution in the NMR Calculations of Flexible and Polar Molecules—Updating the DP4+App*, extended the application's utilities. Please also cite this publication when using the extended functionalities:
+
+* Magn. Reson. Chem. 2025, 63, 1, 74-85. https://doi.org/10.1002/mrc.5491
 
 ## A tool for DP4+, MM-DP4+ and Custom DP4+ probability calculation
 The **DP4+App** is a powerful tool designed to assist researchers in the structure elucidation process by balancing computational cost and predictive capacity using DP4+ factors analysis and automation. It provides valuable insights and streamlines the decision-making process, making it a valuable asset for chemists and researchers working in natural product chemistry and related fields.
