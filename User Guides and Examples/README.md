@@ -1,6 +1,6 @@
 # DP4+ App - User Guides
 
-The **DP4+ Application** provides various modes of operation to facilitate NMR calculations and geometry optimizations. The program's user interface (UI) is divided into different **tabs**, each corresponding to a specific mode. Below is an overview of each functionality:
+The **DP4+ Application** provides various modes of operation to facilitate NMR calculations and geometry optimizations. User interface (UI) is divided into different **tabs**, each corresponding to a specific mode. Below is an overview of each functionality:
 
 # Available Modes
 
@@ -14,8 +14,8 @@ This mode offers **three different methods** for handling NMR calculations and g
 ## 1. MM-DP4+
 This mode has **one method**. It is designed for molecular mechanics (MM) geometry optimizations using **MMFF** and NMR calculations at **36 levels**. 
 
-## 2. Coming Soon
-...
+## 2. HALO DP4+ (extension)
+This mode is an extension that automatically detects the presence of chlorine and bromine atoms in molecules. Its use allows for a multi-standard reference method, meaning that for atoms neighboring halogens, a specific reference standard (not TMS) is used. This improves the certainty of the prediction.
 
 ## 3. Custom DP4+
 This mode allows the user to create a **custom DP4+ level** based on their specific requirements. The user can configure the settings for NMR and geometry optimizations according to their needs.
